@@ -1,0 +1,22 @@
+name: Generate Atom Feed
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate feed.xml
+        run: node .github/scripts/generate-feed.js
+
+      - name: Commit feed.xml
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add feed.xml
+          git diff --cached --quiet || git commit -m "chore: update atom feed"
+          git push
