@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dikshit Makwana</title>
+  <subtitle>Engineer &amp; Tinkerer</subtitle>
+  <link href="https://dikshitmakwana.in/feed.xml" rel="self"/>
+  <link href="https://dikshitmakwana.in"/>
+  <id>https://dikshitmakwana.in/feed.xml</id>
+  <updated>2026-02-02T00:00:00.000Z</updated>
+  <author><name>Dikshit Makwana</name></author>
+
+  <entry>
+    <title>My First Marathon Experience</title>
+    <link href="https://dikshitmakwana.in/#post/marathon"/>
+    <id>https://dikshitmakwana.in/#post/marathon</id>
+    <updated>2026-02-02T00:00:00.000Z</updated>
+    <summary>Endurance athletes are a different kind of humans.</summary>
+    <author><name>Dikshit Makwana</name></author>
+  </entry>
+  <entry>
+    <title>Biggest Lesson of 2025</title>
+    <link href="https://dikshitmakwana.in/#post/lesson-2025"/>
+    <id>https://dikshitmakwana.in/#post/lesson-2025</id>
+    <updated>2025-10-05T00:00:00.000Z</updated>
+    <summary>Small shift in my perspective.</summary>
+    <author><name>Dikshit Makwana</name></author>
+  </entry>
+  <entry>
+    <title>Content Creation</title>
+    <link href="https://dikshitmakwana.in/#post/content"/>
+    <id>https://dikshitmakwana.in/#post/content</id>
+    <updated>2025-09-19T00:00:00.000Z</updated>
+    <summary>First step towards documenting my journey</summary>
+    <author><name>Dikshit Makwana</name></author>
+  </entry>
+  <entry>
+    <title>My Failure Experiences</title>
+    <link href="https://dikshitmakwana.in/#post/failures"/>
+    <id>https://dikshitmakwana.in/#post/failures</id>
+    <updated>2025-09-10T00:00:00.000Z</updated>
+    <summary>One Year of experimentation in my professional journey</summary>
+    <author><name>Dikshit Makwana</name></author>
+  </entry>
+</feed>
