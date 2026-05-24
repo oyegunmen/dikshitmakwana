@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "marathon",
+    "title": "My First Marathon Experience",
+    "date": "2026-02-02",
+    "excerpt": "Endurance athletes are a different kind of humans.",
+    "tags": ["fitness", "personal"]
+  },
+  {
+    "slug": "lesson-2025",
+    "title": "Biggest Lesson of 2025",
+    "date": "2025-10-05",
+    "excerpt": "Small shift in my perspective.",
+    "tags": ["personal"]
+  },
+  {
+    "slug": "content",
+    "title": "Content Creation",
+    "date": "2025-09-19",
+    "excerpt": "First step towards documenting my journey",
+    "tags": ["professional"]
+  },
+  {
+    "slug": "failures",
+    "title": "My Failure Experiences",
+    "date": "2025-09-10",
+    "excerpt": "One Year of experimentation in my professional journey",
+    "tags": ["personal"]
+  }
+]
