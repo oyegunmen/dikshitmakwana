@@ -129,7 +129,7 @@ function renderPostFooter(blogMeta) {
     return `
         <div class="post-footer mt-6">
             <ul class="post-footer-notes">
-                <li>100% human written, including emdashes.</li>
+                <li>100% human written, including emdashes. Damn it AI.</li>
                 <li>This post is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.</li>
             </ul>
             ${tagsHtml}
