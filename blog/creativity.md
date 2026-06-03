@@ -4,7 +4,7 @@ During my final year of engineering, I happened to attend a talk given by Profes
 
 Professor Sebastian highlighted inspiration within the engineering landscape, but the same principle applies to any aspect of life. Our thinking is shaped entirely by our past impressions and the situations we have encountered.
 
-> *Nothing unique has ever been been said that’s not been said earlier*. — **Roman poet Terrence**
+> *Nothing unique has ever been said that’s not been said earlier*. — **Roman poet Terrence**
 
 If that is true, there is no inherent uniqueness to my thinking. My mind does not generate completely original ideas; rather, it repurposes whatever is within the scope of my past impressions. Going beyond this scope is difficult, which is why the traditional concepts of creative thinking and innovation often feel meaningless.
 
