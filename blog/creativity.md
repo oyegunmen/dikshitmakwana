@@ -8,7 +8,7 @@ Professor Sebastian highlighted inspiration within the engineering landscape, bu
 
 If that is true, there is no inherent uniqueness to my thinking. My mind does not generate completely original ideas; rather, it repurposes whatever is within the scope of my past impressions. Going beyond this scope is difficult, which is why the traditional concepts of creative thinking and innovation often feel meaningless.
 
-You can test this yourself: try to have a single unique thought that is in no way related to your past experiences. It is incredibly hard—though perhaps not entirely impossible.
+You can test this yourself: try to have a single unique thought that is in no way related to your past experiences. It is incredibly hard though perhaps not entirely impossible.
 
 Take novel writers, for instance. We view them as a bunch of humans with wild imaginations and creative thinking. Yet, when we look closely at their lives and backgrounds, we find a high degree of correlation with what they write.
 
@@ -20,7 +20,7 @@ Thinking beyond your current scope is like trying to perceive a fourth dimension
 
 Consequently, we are left with the most practical option: increasing the scope of our past impressions.
 
-One of the time-tested ways to expand this scope is by reading books. No other medium developed to date comes close to offering what books provide in such a concise manner. No books are junk—unless, perhaps, they are written by AI. You can read anything and everything that interests you. A good rule of thumb is to read for at least 10 minutes a day initially, stepping it up to 30 minutes once you have developed the habit.
+One of the time-tested ways to expand this scope is by reading books. No other medium developed to date comes close to offering what books provide in such a concise manner. No books are junk unless, perhaps, they are written by AI. You can read anything and everything that interests you. A good rule of thumb is to read for at least 10 minutes a day initially, stepping it up to 30 minutes once you have developed the habit.
 
 My father used to read a lot. Seeing him read, I naturally grew curious about what he was doing. I attempted to read the book he was holding, but as expected, it was far beyond my comprehension. It wasn't interesting to me, and I hated the experience.
 

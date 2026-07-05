@@ -1,6 +1,6 @@
 ### Projects
 
-This page lists some of my personal and professional projects.
+This page lists some of my projects.
 
 #### Projects on [GitHub](https://github.com/oyegunmen/)
 
@@ -11,4 +11,4 @@ This page lists some of my personal and professional projects.
 
 #### Publications
 
-* Makwana D. M., Ishan Z., Anjali G. G. & Sajan T. J. (2026).  *Review of E-Waste Management in India: Informal Sector, Social Impact, and Capacity Utilization.* In *Recent Advances in Logistics, Supply Chain and Transportation, Volume 2* (pp. 475–484). [Springer Link](https://doi.org/10.1007/978-981-95-0853-2_43)
+* **Makwana D. M.**, Ishan Z., Anjali G. G. & Sajan T. J. (2026).  *Review of E-Waste Management in India: Informal Sector, Social Impact, and Capacity Utilization.* In *Recent Advances in Logistics, Supply Chain and Transportation, Volume 2* (pp. 475–484). [Springer Link](https://doi.org/10.1007/978-981-95-0853-2_43)

@@ -1,8 +1,9 @@
 :root {
     color-scheme: light dark;
-    font-size: 1.25em;
+    font-size: 1.20em;
+    font-weight: 100;
 
-    --font-sans: "Cormorant";
+    --font-sans: "EB+Garamond";
     --primary-raw: #fe672c;
     --container-width: 800px;
 
