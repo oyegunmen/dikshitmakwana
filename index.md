@@ -26,4 +26,4 @@ Lately, I have been sharing my thoughts through Social Media, and Blog Posts. Th
 
 I can be reached at [dikshitdesign@gmail.com](mailto:dikshitdesign@gmail.com).
 
-*Last updated on 15th May 2026*.
+*Last updated on 4th July 2026*.
